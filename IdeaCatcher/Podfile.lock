@@ -1,0 +1,12 @@
+PODS:
+  - HubFramework (2.0.9)
+
+DEPENDENCIES:
+  - HubFramework
+
+SPEC CHECKSUMS:
+  HubFramework: 8bd275dc0362755771bf36fb7b33bc45f25144f0
+
+PODFILE CHECKSUM: 4c14dfa12c01798b4f305f0d81c2a059fb9c5bae
+
+COCOAPODS: 1.1.1

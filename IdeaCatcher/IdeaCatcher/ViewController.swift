@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import HubFramework
 
 class ViewController: UIViewController {
 
